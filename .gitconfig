@@ -1,0 +1,5 @@
+[user]
+	name = Matthew Toppi
+	email = 47908195+matttoppi@users.noreply.github.com
+[core]
+	excludesfile = ~/.gitignore_global
